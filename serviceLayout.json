@@ -1,0 +1,14 @@
+{
+  "apiUrl": "http://pokeapi.co/api/v1/",
+  "endpoints": {
+    "getPokedex": "pokedex/:id",
+    "getPokemon": "pokemon/:id",
+    "getType": "type/:id",
+    "getMove": "move/:id",
+    "getAbility": "ability/:id",
+    "getEggGroup": "egg/:id",
+    "getDescription": "description/:id",
+    "getSprite": "sprite/:id",
+    "getGame": "game/:id"
+  }
+}
